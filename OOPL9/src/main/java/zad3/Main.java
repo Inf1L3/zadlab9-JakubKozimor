@@ -17,7 +17,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        ArrayList<Object> arlist = new ArrayList<Object>();
+        ArrayList<Samochod> arlist = new ArrayList<Samochod>();
         Samochod nr1 = new Samochod("dfsad", "fas", 100, 23);
         Samochod nr2 = new Samochod("dffassad", "ffgfgas", 200, 13);
         Samochod nr3 = new Samochod("dad", "fa", 130, 123);
